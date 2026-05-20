@@ -1,6 +1,6 @@
 # Stock Price Prediction
 
-This project predicts stock prices using two approaches:  
+This project predicts stock prices using two approaches:(changed)  
 - ARIMA (classical time series model)  
 - LSTM (deep learning model)
 
